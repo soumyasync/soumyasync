@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 I'm Soumya Deori.
 This repository marks the beginning of my development journey.
 I am a CSE graduate currently focusing on learning Python and SQL, with a goal to move into AI/ML.
-This repo will include my learning progress.
